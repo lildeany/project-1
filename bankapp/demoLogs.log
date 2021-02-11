@@ -1,0 +1,2049 @@
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[WARN]	[com.revature.example.Application]	Welcome to the Login Menu
+[WARN]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Signed out
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	account id?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[WARN]	[com.revature.example.MainMenu]	Your account 1 has been created with starting balance 1
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Signed out
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Signed out
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	account id?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[WARN]	[com.revature.example.MainMenu]	Your account 1 has been created with starting balance 2
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	account id?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	account id?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	Balance [id=1, balance=400]
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	account id?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[ERROR]	[com.revature.example.MainMenu]	Account not found
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	account id?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	Balance [id=2, balance=200]
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[WARN]	[com.revature.example.MainMenu]	Invalid choice
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	Balance [id=2, balance=300]
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[ERROR]	[com.revature.example.MainMenu]	Account not found
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	Balance [id=1, balance=300]
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[INFO]	[com.revature.example.MainMenu]	Transfer Successful
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	account id?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[INFO]	[com.revature.example.MainMenu]	Transfer Successful
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[ERROR]	[com.revature.example.MainMenu]	Duplicate Account
+[INFO]	[com.revature.example.MainMenu]	Transfer Successful
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[ERROR]	[com.revature.example.MainMenu]	Duplicate Account
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	You did not select right
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[ERROR]	[com.revature.example.MainMenu]	Error Cannot Transfer to the same Account
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[ERROR]	[com.revature.example.MainMenu]	Error Cannot Transfer to the same Account
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	You did not select right
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	account id?
+[WARN]	[com.revature.example.MainMenu]	wrong balance
+[WARN]	[com.revature.example.MainMenu]	account id?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	Balance [id=2, balance=300]
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[ERROR]	[com.revature.example.MainMenu]	Account not found
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	You did not select right
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	account id?
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[ERROR]	[com.revature.example.MainMenu]	Error Cannot Transfer to the same Account
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[WARN]	[com.revature.example.MainMenu]	incorrect account id
+[ERROR]	[com.revature.example.MainMenu]	Error Cannot Transfer to the same Account
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[ERROR]	[com.revature.example.MainMenu]	Error Cannot Transfer to the same Account
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	You did not select right
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	Incorrect withdrawal amount
+[WARN]	[com.revature.example.MainMenu]	Enter another withdrawal balance
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[ERROR]	[com.revature.example.MainMenu]	Error Cannot Transfer to the same Account
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[FATAL]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[DEBUG]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[ERROR]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.Application]	Signed out
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.Application]	Signed out
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Signed out
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number?
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	Balance [id=1, balance=300]
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[WARN]	[com.revature.example.EmployeeMenu]	Balance [id=2, balance=300]
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	Balance [id=2, balance=300]
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[WARN]	[com.revature.example.EmployeeMenu]	Balance [id=2, balance=300]
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	Balance [id=2, balance=300]
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[WARN]	[com.revature.example.EmployeeMenu]	Balance [id=2, balance=300]
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	Balance [id=2, balance=300]
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[INFO]	[com.revature.example.EmployeeMenu]	Account Deleted
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[ERROR]	[com.revature.example.EmployeeMenu]	Account not found
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... log transaction
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... log transaction
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[INFO]	[com.revature.example.EmployeeMenu]	Account Deleted
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[ERROR]	[com.revature.example.EmployeeMenu]	Account not found
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[ERROR]	[com.revature.example.EmployeeMenu]	Account not found
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[WARN]	[com.revature.example.EmployeeMenu]	Incorrect account number
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[ERROR]	[com.revature.example.EmployeeMenu]	For input string: "w"
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[ERROR]	[com.revature.example.EmployeeMenu]	For input string: "w"
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[ERROR]	[com.revature.example.EmployeeMenu]	Account not found
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[ERROR]	[com.revature.example.EmployeeMenu]	For input string: "w"
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What is the customers account number
+[ERROR]	[com.revature.example.EmployeeMenu]	Account not found
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[ERROR]	[com.revature.example.EmployeeMenu]	Account not found
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... log transaction
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[ERROR]	[com.revature.example.EmployeeMenu]	For input string: "w"
+[WARN]	[com.revature.example.EmployeeMenu]	..... log transaction
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[ERROR]	[com.revature.example.EmployeeMenu]	For input string: "w"
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[WARN]	[com.revature.example.EmployeeMenu]	Incorrect account number
+[WARN]	[com.revature.example.EmployeeMenu]	Enter a valid Account Number
+[ERROR]	[com.revature.example.EmployeeMenu]	Account not found
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What is the customers account number
+[WARN]	[com.revature.example.EmployeeMenu]	Incorrect account number
+[WARN]	[com.revature.example.EmployeeMenu]	Enter a valid Account Number
+[ERROR]	[com.revature.example.EmployeeMenu]	Account not found
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... getting customer account
+[WARN]	[com.revature.example.EmployeeMenu]	What account do you want to delete
+[WARN]	[com.revature.example.EmployeeMenu]	Incorrect account number
+[WARN]	[com.revature.example.EmployeeMenu]	Enter a valid Account Number
+[ERROR]	[com.revature.example.EmployeeMenu]	Account not found
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Signed out
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	Invalid choice
+[WARN]	[com.revature.example.MainMenu]	Enter a valid choice
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number?
+[WARN]	[com.revature.example.MainMenu]	wrong balance
+[WARN]	[com.revature.example.MainMenu]	What is your account number?
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number? containing only digits
+[WARN]	[com.revature.example.MainMenu]	invalid account number
+[WARN]	[com.revature.example.MainMenu]	What is your account number? containing only digits
+[WARN]	[com.revature.example.MainMenu]	starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number? containing only digits
+[WARN]	[com.revature.example.MainMenu]	What is your starting account balance?
+[WARN]	[com.revature.example.MainMenu]	Invalid balance
+[WARN]	[com.revature.example.MainMenu]	What is your account number? containing only digits
+[WARN]	[com.revature.example.MainMenu]	What is your starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Your account 1 has already been created 
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number? containing only digits
+[WARN]	[com.revature.example.MainMenu]	What is your starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Your account number 2 has already been created with starting balance 13
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... getting your balanace
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	Balance [id=1, balance=20]
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	Incorrect withdrawal amount
+[WARN]	[com.revature.example.MainMenu]	Enter another withdrawal balance
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account do you want?
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	Incorrect withdrawal amount
+[WARN]	[com.revature.example.MainMenu]	Enter another withdrawal balance
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account are you withdrawing from?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[ERROR]	[com.revature.example.MainMenu]	Error Cannot Transfer to the same Account
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account are you withdrawing from?
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account are you withdrawing from?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[ERROR]	[com.revature.example.MainMenu]	Withdrawal cannot be authorized
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account are you withdrawing from?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[ERROR]	[com.revature.example.MainMenu]	Withdrawal amount exceeds account balance
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account are you withdrawing from?
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[WARN]	[com.revature.example.MainMenu]	Incorrect account number
+[WARN]	[com.revature.example.MainMenu]	Enter Another account number
+[ERROR]	[com.revature.example.MainMenu]	Can not Trandfer funds with in the same account
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... withdrawing from an account
+[WARN]	[com.revature.example.MainMenu]	What account are you withdrawing from?
+[WARN]	[com.revature.example.MainMenu]	How much do you want to withdraw?
+[WARN]	[com.revature.example.MainMenu]	Incorrect withdrawal amount
+[WARN]	[com.revature.example.MainMenu]	Enter another withdrawal balance
+[WARN]	[com.revature.example.MainMenu]	What account are you depositing to?
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number? containing only digits
+[WARN]	[com.revature.example.MainMenu]	What is your starting account balance?
+[INFO]	[com.revature.example.MainMenu]	Your account number 12 has already been created with starting balance 10
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number? containing only digits
+[WARN]	[com.revature.example.MainMenu]	What is your starting account balance?
+[INFO]	[com.revature.example.MainMenu]	 Account number 12 has already been created 
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as a customer
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.MainMenu]	..... creating a new Account
+[WARN]	[com.revature.example.MainMenu]	What is your account number? containing only digits
+[WARN]	[com.revature.example.MainMenu]	What is your starting account balance?
+[INFO]	[com.revature.example.MainMenu]	 Account number 12 has already Exists 
+[INFO]	[com.revature.example.MainMenu]	Customer Menu
+[INFO]	[com.revature.example.MainMenu]	--------------------
+[INFO]	[com.revature.example.MainMenu]	1.) Back
+[INFO]	[com.revature.example.MainMenu]	2.) Apply for a new Account
+[INFO]	[com.revature.example.MainMenu]	3.) View the balance of an account
+[INFO]	[com.revature.example.MainMenu]	4.) Transferring Money
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
+[WARN]	[com.revature.example.MainMenu]	Logged in as an employee
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[WARN]	[com.revature.example.EmployeeMenu]	..... log transaction
+[WARN]	[com.revature.example.EmployeeMenu]	These are the log transactions
+[INFO]	[com.revature.example.EmployeeMenu]	Employee Menu
+[INFO]	[com.revature.example.EmployeeMenu]	--------------------
+[INFO]	[com.revature.example.EmployeeMenu]	1.) Back
+[INFO]	[com.revature.example.EmployeeMenu]	2.) View Customer Account
+[INFO]	[com.revature.example.EmployeeMenu]	3.) View log of account
+[INFO]	[com.revature.example.EmployeeMenu]	4.) Delete an Account
+[INFO]	[com.revature.example.EmployeeMenu]	Enter a choice between 1 and 4
+[INFO]	[com.revature.example.Application]	Welcome to the Login Menu
+[INFO]	[com.revature.example.Application]	-------------------------
+[INFO]	[com.revature.example.MainMenu]	Main Menu
+[INFO]	[com.revature.example.MainMenu]	------------------------
+[INFO]	[com.revature.example.MainMenu]	1.)Exit Login Page
+[INFO]	[com.revature.example.MainMenu]	2.) Login as a customer
+[INFO]	[com.revature.example.MainMenu]	3.) Login as an employee
+[INFO]	[com.revature.example.MainMenu]	Enter a choice between 1 and 3
